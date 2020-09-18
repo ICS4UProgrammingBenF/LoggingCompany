@@ -1,0 +1,10 @@
+C:\Users\s255212\Desktop\LoggingCompany\LoggingCompany\bin\Debug\LoggingCompany.exe.config
+C:\Users\s255212\Desktop\LoggingCompany\LoggingCompany\bin\Debug\LoggingCompany.exe
+C:\Users\s255212\Desktop\LoggingCompany\LoggingCompany\bin\Debug\LoggingCompany.pdb
+C:\Users\s255212\Desktop\LoggingCompany\LoggingCompany\obj\Debug\LoggingCompany.csprojAssemblyReference.cache
+C:\Users\s255212\Desktop\LoggingCompany\LoggingCompany\obj\Debug\LoggingCompany.LoggingCompanyForm.resources
+C:\Users\s255212\Desktop\LoggingCompany\LoggingCompany\obj\Debug\LoggingCompany.Properties.Resources.resources
+C:\Users\s255212\Desktop\LoggingCompany\LoggingCompany\obj\Debug\LoggingCompany.csproj.GenerateResource.cache
+C:\Users\s255212\Desktop\LoggingCompany\LoggingCompany\obj\Debug\LoggingCompany.csproj.CoreCompileInputs.cache
+C:\Users\s255212\Desktop\LoggingCompany\LoggingCompany\obj\Debug\LoggingCompany.exe
+C:\Users\s255212\Desktop\LoggingCompany\LoggingCompany\obj\Debug\LoggingCompany.pdb
